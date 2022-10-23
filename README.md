@@ -24,4 +24,5 @@ It is also possible to test the original real-esrgan model and fine-tuned model 
 
 Below are some outputs of the real-esrgan model and the fine-tuned model:
 
+![1](https://user-images.githubusercontent.com/47056654/197418252-b98f0fd3-0d5d-4513-811c-dd98237ae396.jpeg)
 
