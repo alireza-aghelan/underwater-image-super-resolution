@@ -26,19 +26,18 @@ Below are some outputs of the real-esrgan model and the fine-tuned model:
 
 1–4 columns are the LR degraded images, the outputs of the original real-esrgan, the outputs of the fine-tuned model after 8 epoch, and the outputs of the fine-tuned model after 20 epoch.
 
-![1](https://user-images.githubusercontent.com/47056654/197418252-b98f0fd3-0d5d-4513-811c-dd98237ae396.jpeg)
-![2](https://user-images.githubusercontent.com/47056654/197418296-0fcbb5ce-adf2-4d32-b01c-28088b539da3.jpeg)
-![3](https://user-images.githubusercontent.com/47056654/197418550-ab2ccd0a-fb62-4304-a706-e9cb530294fb.jpeg)
-![4](https://user-images.githubusercontent.com/47056654/197418571-56779d22-253f-429b-98e4-665c85fcaa1e.jpeg)
-![5](https://user-images.githubusercontent.com/47056654/197418695-030469b3-0836-47c3-bd38-25aa2796951b.jpeg)
+![1](https://user-images.githubusercontent.com/47056654/197768768-e011c4da-7c5a-4317-8e9e-ff72136098e4.jpeg)
+![2](https://user-images.githubusercontent.com/47056654/197768822-c6f91077-97bc-4bea-bdd7-6fe8c434b705.jpeg)
+![3](https://user-images.githubusercontent.com/47056654/197768869-c94ac521-27ac-4f8a-97e0-939fbf3768cc.jpeg)
+![4](https://user-images.githubusercontent.com/47056654/197768901-0a77acb9-9eae-41d5-bb18-b74b5f932162.jpeg)
+![5](https://user-images.githubusercontent.com/47056654/197768931-5fe18c9a-86fb-401f-b713-8618912ee32a.jpeg)
 
 Magnified regions of underwater images for better comparison between models:
 
-![6](https://user-images.githubusercontent.com/47056654/197418794-83ce71c3-d7ea-4e1d-9f0b-807d6da72aec.jpeg)
-![7](https://user-images.githubusercontent.com/47056654/197418967-adbdfb1c-a5b9-4503-9eed-014889181dca.jpeg)
-![8](https://user-images.githubusercontent.com/47056654/197418976-d5bd9c00-4281-4591-b374-594d62220a2e.jpeg)
-![9](https://user-images.githubusercontent.com/47056654/197418999-c1cfb781-d17f-4577-abec-d911270f6ffd.jpeg)
-
+![6](https://user-images.githubusercontent.com/47056654/197768966-18323072-2b91-44ec-99bd-84bbc1d0b061.jpeg)
+![7](https://user-images.githubusercontent.com/47056654/197768989-3f3b1292-f0f3-4f38-a237-640acd9aed5b.jpeg)
+![8](https://user-images.githubusercontent.com/47056654/197769016-c5a70c42-9631-4fd5-8597-8129b96fc372.jpeg)
+![9](https://user-images.githubusercontent.com/47056654/197769044-2edb1c40-56bc-43f9-a992-b5f0728e024a.jpeg)
 
 
 
