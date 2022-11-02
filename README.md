@@ -24,7 +24,7 @@ It is also possible to test the original real-esrgan model and fine-tuned model 
 
 Below are some outputs of the real-esrgan model and the fine-tuned model:
 
-1–4 columns are the LR degraded images, the outputs of the original real-esrgan, the outputs of the fine-tuned model after 8 epoch, and the outputs of the fine-tuned model after 20 epoch.
+1–4 columns are the LR degraded images, the outputs of the original real-esrgan, the outputs of the fine-tuned model after 8 epochs, and the outputs of the fine-tuned model after 20 epochs.
 
 ![1](https://user-images.githubusercontent.com/47056654/197768768-e011c4da-7c5a-4317-8e9e-ff72136098e4.jpeg)
 ![2](https://user-images.githubusercontent.com/47056654/197768822-c6f91077-97bc-4bea-bdd7-6fe8c434b705.jpeg)
