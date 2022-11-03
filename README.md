@@ -1,6 +1,6 @@
 # underwater-image-super-resolution
 
-Underwater images are used in oceanic engineering and various applications such as underwater robot vision and underwater autonomous vehicles, etc. Single image super-resolution (SISR) methods can improve the resolution and quality of underwater images. 
+Underwater images are used in oceanic engineering and various applications such as underwater robot vision, etc. Single image super-resolution (SISR) methods can improve the resolution and quality of underwater images. 
 
 Real-Enhanced Super-Resolution Generative Adversarial Network (Real-ESRGAN) is one of the recent practical models that have been used to generate higher-resolution images from lower-resolution input images. 
 In this work, we use this model to increase the resolution and quality of underwater images. In our proposed approach, the pre-trained generator and discriminator networks of the real-esrgan model are fine-tuned using underwater image datasets.
