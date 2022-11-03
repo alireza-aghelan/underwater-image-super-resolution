@@ -4,6 +4,7 @@ Underwater images are used in oceanic engineering and various applications such 
 
 Real-Enhanced Super-Resolution Generative Adversarial Network (Real-ESRGAN) is one of the recent practical models that have been used to generate higher-resolution images from lower-resolution input images. 
 In this work, we use this model to increase the resolution and quality of underwater images. In our proposed approach, the pre-trained generator and discriminator networks of the real-esrgan model are fine-tuned using underwater image datasets.
+
 The code of the Real-ESRGAN model is borrowed from https://github.com/xinntao/Real-ESRGAN
 
 We used the USR-248 dataset and UFO-120 dataset to fine-tune the real-esrgan model.
