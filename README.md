@@ -25,7 +25,7 @@ The Real-ESRGAN code is borrowed from https://github.com/xinntao/Real-ESRGAN
 
 Below are some outputs of the real-esrgan model and the fine-tuned model:
 
-1–4 columns are the LR degraded images, the outputs of the original real-esrgan, the outputs of the fine-tuned model after 8 epochs, and the outputs of the fine-tuned model after 20 epochs.
+Columns 1–4 are the LR degraded images, the outputs of the original Real-ESRGAN, the outputs of the fine-tuned model after 8 epochs, and the outputs of the fine-tuned model after 20 epochs.
 
 ![1](https://user-images.githubusercontent.com/47056654/199535861-112a0006-7cbf-4d52-aeaf-6f3f9ff6be8e.jpeg)
 ![2](https://user-images.githubusercontent.com/47056654/199536184-264061c1-2a02-429b-9483-64c94e6f019e.jpeg)
