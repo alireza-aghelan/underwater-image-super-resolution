@@ -19,9 +19,9 @@ https://irvlab.cs.umn.edu/resources/ufo-120-dataset
 
 All details and fine-tuning parameters are available in the finetune_realesrgan_x4plus.yml file.
 
-It is also possible to test the original real-esrgan model and fine-tuned model in the fine_tune_underwater.ipynb file
+It is also possible to test the original real-esrgan model and fine-tuned model in the fine_tune_underwater.ipynb file.
 
-The Real-ESRGAN code is borrowed from https://github.com/xinntao/Real-ESRGAN
+The Real-ESRGAN code is borrowed from https://github.com/xinntao/Real-ESRGAN.
 
 Below are some outputs of the real-esrgan model and the fine-tuned model:
 
