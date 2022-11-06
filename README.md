@@ -35,10 +35,6 @@ Columns 1–4 are the LR degraded images, the outputs of the original Real-ESRGA
 Magnified regions of underwater images for better comparison between models:
 
 ![6](https://user-images.githubusercontent.com/47056654/199537924-37a5e71c-c4ae-4a6a-a175-75b3f0778ec3.jpeg)
-![7](https://user-images.githubusercontent.com/47056654/199537972-f71f3272-3c8d-467c-af97-83f977948eb5.jpeg)
-![9](https://user-images.githubusercontent.com/47056654/199538063-71bade92-ab9a-4b0e-a2b9-d6b6bb75dda6.jpeg)
-
-
 
 
 
