@@ -27,15 +27,16 @@ Below are some outputs of the real-esrgan model and the fine-tuned model:
 
 Columns 1–4 are the LR degraded images, the outputs of the original Real-ESRGAN, the outputs of the fine-tuned model after 8 epochs, and the outputs of the fine-tuned model after 20 epochs.
 
-![1](https://user-images.githubusercontent.com/47056654/199535861-112a0006-7cbf-4d52-aeaf-6f3f9ff6be8e.jpeg)
-![2](https://user-images.githubusercontent.com/47056654/199536184-264061c1-2a02-429b-9483-64c94e6f019e.jpeg)
-![3](https://user-images.githubusercontent.com/47056654/199536638-e82930fd-13eb-475a-b0a9-e8a770a41676.jpeg)
-![4](https://user-images.githubusercontent.com/47056654/199537622-b66d4e87-c683-4c0f-8aaf-3be48c1a93fd.jpeg)
-![5](https://user-images.githubusercontent.com/47056654/200148299-dc9a571e-d452-4170-96e0-b4c2fe5b22a2.jpeg)
+![1](https://user-images.githubusercontent.com/47056654/200174179-1c8533e2-cf81-4715-a045-80a11ed4d1d4.jpeg)
+![2](https://user-images.githubusercontent.com/47056654/200174206-1d7eb2f3-f216-43dd-9c75-8c24278ae807.jpeg)
+![3](https://user-images.githubusercontent.com/47056654/200174224-e6598cc9-3b53-4064-a776-b7206bf5eba8.jpeg)
+![4](https://user-images.githubusercontent.com/47056654/200174245-4ab4f300-6a35-416e-bf22-24cf24aa6431.jpeg)
+![5](https://user-images.githubusercontent.com/47056654/200174289-74b240fa-619a-4316-85cf-bc493474c1f6.jpeg)
 
 Magnified regions of underwater images for better comparison between models:
 
-![6](https://user-images.githubusercontent.com/47056654/199537924-37a5e71c-c4ae-4a6a-a175-75b3f0778ec3.jpeg)
-
+![6](https://user-images.githubusercontent.com/47056654/200174311-1708bf01-55ef-470a-9a32-0f73cd3753db.jpeg)
+![7](https://user-images.githubusercontent.com/47056654/200174325-c64e3c16-2491-4e94-b3aa-7d6ccea66b38.jpeg)
+![8](https://user-images.githubusercontent.com/47056654/200174348-853233ee-23d1-49f6-98ea-f6f7e367a56f.jpeg)
 
 
