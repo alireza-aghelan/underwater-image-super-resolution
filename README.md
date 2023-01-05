@@ -25,13 +25,13 @@ The Real-ESRGAN code is borrowed from https://github.com/xinntao/Real-ESRGAN.
 
 Below are some outputs of the real-esrgan model and the fine-tuned model:
 
-Columns 1–4 are the LR degraded images, the outputs of the original Real-ESRGAN, the outputs of the fine-tuned model after 8 epochs, and the outputs of the fine-tuned model after 20 epochs.
-
 ![1](https://user-images.githubusercontent.com/47056654/200174179-1c8533e2-cf81-4715-a045-80a11ed4d1d4.jpeg)
 ![2](https://user-images.githubusercontent.com/47056654/200174206-1d7eb2f3-f216-43dd-9c75-8c24278ae807.jpeg)
 ![3](https://user-images.githubusercontent.com/47056654/200174224-e6598cc9-3b53-4064-a776-b7206bf5eba8.jpeg)
 ![4](https://user-images.githubusercontent.com/47056654/200174245-4ab4f300-6a35-416e-bf22-24cf24aa6431.jpeg)
 ![5](https://user-images.githubusercontent.com/47056654/200174289-74b240fa-619a-4316-85cf-bc493474c1f6.jpeg)
+
+Columns 1–4 are the LR degraded images, original Real-ESRGAN outputs, fine-tuned model outputs after 8 epochs, and fine-tuned model outputs after 20 epochs.
 
 Magnified regions of underwater images for better comparison between models:
 
