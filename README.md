@@ -14,8 +14,8 @@ The Real-ESRGAN code is borrowed from https://github.com/xinntao/Real-ESRGAN.
 
 Below are some outputs of the real-esrgan model and the fine-tuned model:
 
-![1](https://user-images.githubusercontent.com/47056654/236951955-b9f86249-618c-404f-9645-01f429b6e543.jpeg)
-![2](https://user-images.githubusercontent.com/47056654/236951982-1aefd0ea-64e2-4b57-b421-6fe7496b35c9.jpeg)
+![1](https://user-images.githubusercontent.com/47056654/236952306-79650879-f527-49cf-9078-d88dfd8d2b1a.jpeg)
+![2](https://user-images.githubusercontent.com/47056654/236952342-ce1b7d36-8f50-4441-8e25-18b23c4520eb.jpeg)
 
 
 Magnified regions of underwater images for better comparison between models:
