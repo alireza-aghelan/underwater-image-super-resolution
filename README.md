@@ -19,5 +19,5 @@ Below are some outputs of the real-esrgan model and the fine-tuned model:
 
 Magnified regions of underwater images for better comparison between models:
 
-![3](https://user-images.githubusercontent.com/47056654/236954379-a04a1c7f-6037-40b5-8174-e7740952e0f9.jpeg)
-![4](https://user-images.githubusercontent.com/47056654/236954410-8ef727b3-cbc5-444c-b66f-e29ba39efe3a.jpeg)
+![3](https://user-images.githubusercontent.com/47056654/236955145-a4759368-5021-4872-aee6-e6ed85cd3e59.jpeg)
+![4](https://user-images.githubusercontent.com/47056654/236955163-c67c13ce-ef87-434e-b7f8-ac74007d76d1.jpeg)
