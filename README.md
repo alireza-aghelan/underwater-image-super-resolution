@@ -8,10 +8,13 @@ https://irvlab.cs.umn.edu/resources/usr-248-dataset
 
 The Real-ESRGAN code is borrowed from https://github.com/xinntao/Real-ESRGAN.
 
-Results for different underwater images:
+Results for different underwater images are shown in the following figures.
 
 ![1](https://user-images.githubusercontent.com/47056654/236956229-a9d68e45-19a2-4f30-8d4c-b7f2c10b54d2.jpeg)
 ![2](https://user-images.githubusercontent.com/47056654/236956252-27bb3d78-cf22-4b3e-a5b8-0878da7cf721.jpeg)
+
+Columns 1–4 are input images, original Real-ESRGAN outputs, fine-tuned Real-ESRGAN outputs, and original images.
+
 
 Magnified regions of underwater images to further identify differences:
 
