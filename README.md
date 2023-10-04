@@ -8,7 +8,7 @@ https://irvlab.cs.umn.edu/resources/usr-248-dataset
 
 The Real-ESRGAN code is borrowed from https://github.com/xinntao/Real-ESRGAN.
 
-Some results for the images of the USR-248 test folder are demonstrated in the following figures.
+The following figures demonstrate the results for the images in the test folder of the USR-248 dataset.
 
 ![1](https://github.com/alireza-aghelan/underwater-image-super-resolution/assets/47056654/059768a3-4bd7-4207-adc5-91cbad941c6e)
 
