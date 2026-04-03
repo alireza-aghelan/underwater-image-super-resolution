@@ -11,24 +11,21 @@ In this work, we fine-tune the pre-trained **Real-ESRGAN** model for underwater 
 
 The model is fine-tuned and evaluated on the **USR-248** dataset. Compared with the original Real-ESRGAN baseline, the fine-tuned model produces underwater images with better perceptual quality and more realistic visual details.
 
-The download link of the USR-248 dataset:
+The **USR-248** dataset can be accessed [here](https://irvlab.cs.umn.edu/resources/usr-248-dataset).
 
-https://irvlab.cs.umn.edu/resources/usr-248-dataset
-
-The Real-ESRGAN code is borrowed from https://github.com/xinntao/Real-ESRGAN.
+This work is built upon [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN).
 
  # Results
  
 The following figures demonstrate the results for the images in the test folder of the USR-248 dataset.
 
-<br><br>
-
-Quantitative comparison between IG-CFAT and GAN-based SR methods.
-<br><br>
+---
 
 ![1](https://github.com/alireza-aghelan/underwater-image-super-resolution/assets/47056654/059768a3-4bd7-4207-adc5-91cbad941c6e)
 
 Columns 1–4 are input images, Real-ESRGAN outputs, fine-tuned Real-ESRGAN outputs, and original images.
+
+---
 
 ![2](https://github.com/alireza-aghelan/underwater-image-super-resolution/assets/47056654/c1dea889-1ffc-441c-969b-26caf42295ca)
 
