@@ -5,11 +5,9 @@
 **Alireza Aghelan**, **Modjtaba Rouhani**
 
 ## Overview
-This repository presents the implementation of our paper, **Underwater Image Super-Resolution using Generative Adversarial Network-based Model**.
+This repository provides the official implementation of our paper, **Underwater Image Super-Resolution using Generative Adversarial Network-based Model**.
 
-In this work, we fine-tune the pre-trained **Real-ESRGAN** model for underwater image super-resolution. The objective is to improve the resolution and visual quality of underwater images while preserving fine structures and producing more realistic textures.
-
-The model is fine-tuned and evaluated on the **USR-248** dataset. Compared with the original Real-ESRGAN baseline, the fine-tuned model produces underwater images with better perceptual quality and more realistic visual details.
+In this work, we fine-tune the pre-trained **Real-ESRGAN** model for underwater image super-resolution. The objective is to improve the resolution and visual quality of underwater images while preserving fine structures and producing more realistic textures. The model is fine-tuned on the **USR-248** dataset. Compared with the original Real-ESRGAN baseline, the fine-tuned model generates underwater images with improved perceptual quality and more realistic visual details.
 
 The **USR-248** dataset can be accessed [here](https://irvlab.cs.umn.edu/resources/usr-248-dataset).
 
