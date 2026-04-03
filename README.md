@@ -22,7 +22,6 @@ The Real-ESRGAN code is borrowed from https://github.com/xinntao/Real-ESRGAN.
 The following figures demonstrate the results for the images in the test folder of the USR-248 dataset.
 
 <br><br>
-<img src="./figures/1.jpg" width="600">
 
 Quantitative comparison between IG-CFAT and GAN-based SR methods.
 <br><br>
