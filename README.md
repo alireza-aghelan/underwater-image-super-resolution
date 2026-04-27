@@ -1,6 +1,6 @@
 # Underwater Image Super-Resolution using Generative Adversarial Network-based Model
 
-[**Paper (IEEE)**](https://ieeexplore.ieee.org/abstract/document/10326266) | [**Paper (arXiv Preprint)**](https://arxiv.org/abs/2211.03550)
+[**IEEE Paper**](https://ieeexplore.ieee.org/abstract/document/10326266) | [**arXiv Preprint**](https://arxiv.org/abs/2211.03550)
 
 **Alireza Aghelan**, **Modjtaba Rouhani**
 
